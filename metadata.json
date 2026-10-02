@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Remix Remix: Remix: Iqra AI OS Console",
+  "description": "Jarvis-style personal AI assistant named Iqra, featuring real-time interactive visual avatar animations, custom voice, and visual simulation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
